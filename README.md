@@ -4,6 +4,8 @@ A modern web application to explore Pokémon using the [PokéAPI](https://pokeap
 
 ![Pokedex Screenshot]
 ![image](https://github.com/user-attachments/assets/0ac74983-25df-4442-8b20-ee4062a7a217)
+![image](https://github.com/user-attachments/assets/3141b4f8-0378-4770-ab28-b6a0ab1dcdd6)
+
 
 
 ---
