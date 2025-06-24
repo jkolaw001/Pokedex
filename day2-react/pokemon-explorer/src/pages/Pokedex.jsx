@@ -29,8 +29,8 @@ function Pokedex() {
       }
 
       const data = await response.json();
-      setPokemon((prevPokemon) => [...prevPokemon, ...data.results]); // Append new Pokémon to the list
-      setOffset((prevOffset) => prevOffset + 20); // Increment the offset for the next fetch
+      setPokemon((prevPokemon) => [...prevPokemon, ...data.results]); 
+      setOffset((prevOffset) => prevOffset + 20); 
     } catch (error) {
       setError(error.message);
     } finally {
