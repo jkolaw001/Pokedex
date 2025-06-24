@@ -2,7 +2,9 @@
 
 A modern web application to explore Pokémon using the [PokéAPI](https://pokeapi.co/). Browse, search, and view detailed information about your favorite Pokémon with a clean, responsive interface and support for light/dark mode.
 
-![Pokedex Screenshot](pokemon-explorer/src/pages/giorgio-trovato-I7ipAK_JggQ-unsplash.jpg) <!-- Replace with an actual screenshot if available -->
+![Pokedex Screenshot]
+![image](https://github.com/user-attachments/assets/0ac74983-25df-4442-8b20-ee4062a7a217)
+
 
 ---
 
